@@ -1,6 +1,6 @@
 # 以太01（Aether01）AC101S 版硬件
 
-以太01是一款基于 ESP32-S31 的掌上设备，采用 AMOLED 触摸屏、TF 卡和板载音频。本仓库收录 **AC101S 音频硬件版**的设计资料。原版电路设计由 **DarkThunder** 完成，原版外壳由 **Addictionpoi** 设计。AC101S 版沿用以太01的外壳。
+以太01是一款基于 ESP32-S31 的掌上设备，采用 AMOLED 触摸屏、TF 卡和板载音频。本仓库收录 **AC101S 音频硬件版**的设计资料。原版电路设计由 **DarkThunder** 完成，原版外壳由 **Addictionpoi** 设计。
 
 [下载完整资料（ZIP）](https://github.com/DT-DT001/Aether01-Hardware-AC101S/archive/refs/heads/main.zip) · [AC101S 固件 Demo](https://github.com/DT-DT001/Aether01-AC101S-) · [许可与署名](NOTICE.md)
 
