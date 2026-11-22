@@ -2,7 +2,7 @@
 
 | 原创设计资料 | 原作者及版权 | SPDX 标识 |
 | --- | --- | --- |
-| `硬件资料（AC101S）/工程文件/`、`硬件资料（AC101S）/原理图/` 和 `硬件资料（AC101S）/制造文件/` 中的原创电路设计 | © 2026 DarkThunder | `CERN-OHL-S-2.0` |
+| `硬件资料（AC101S）/工程文件/`、`硬件资料（AC101S）/原理图/` 和 `硬件资料（AC101S）/制造文件/` 中的原创电路设计 | © 2026 [DarkThunder（@DT-DT001）](https://github.com/DT-DT001) | `CERN-OHL-S-2.0` |
 | `3d外壳文件/` 中的原创外壳设计、原生 CAD 文件及导出文件 | © 2026 Addictionpoi | `CERN-OHL-S-2.0` |
 
 完整许可条款和免责声明见 [CERN Open Hardware Licence Version 2, Strongly Reciprocal](LICENSES/CERN-OHL-S-2.0.txt)。
