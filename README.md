@@ -12,6 +12,15 @@
 
 <img src="docs/images/03-built-in-games.png" alt="以太01内置游戏界面" width="960">
 
+<details>
+<summary>实用工具与连接界面</summary>
+
+<img src="docs/images/04-device-tools.png" alt="文件操作、运动姿态、短程位移与卫星定位" width="960">
+
+<img src="docs/images/05-connectivity.png" alt="电脑键鼠、OBS 切换台与 USB 传输" width="960">
+
+</details>
+
 [查看以太01实物外观参考照片](<硬件资料（AC101S）/成品图/斜俯视亮屏.png>)
 
 ## 设计文件
