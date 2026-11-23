@@ -8,7 +8,9 @@
 
 <img src="docs/images/01-desktop-drawer.png" alt="以太01桌面和应用抽屉" width="960">
 
-<img src="docs/images/02-daily-apps.png" alt="以太01日常应用界面" width="960">
+<img src="docs/images/02-daily-apps.png" alt="小说阅读、同步歌词、录音波形和设备设置" width="960">
+
+<img src="docs/images/06-keyboard-files.png" alt="放大的离线拼音键盘、TF 卡与 USB 文件浏览、长按文件菜单" width="960">
 
 <img src="docs/images/03-built-in-games.png" alt="以太01内置游戏界面" width="960">
 
