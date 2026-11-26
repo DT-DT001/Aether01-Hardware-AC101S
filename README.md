@@ -4,6 +4,10 @@
 
 [下载完整资料（ZIP）](https://github.com/DT-DT001/Aether01-Hardware-AC101S/archive/refs/heads/main.zip) · [下载 AC101S 固件](https://github.com/DT-DT001/Aether01-AC101S-/releases) · [AC101S 固件源码](https://github.com/DT-DT001/Aether01-AC101S-#readme) · [许可与署名](NOTICE.md)
 
+## 硬件架构
+
+[![以太01 AC101S 硬件框图，展示 ESP32-S31 与各外设的信号和供电连接](docs/images/hardware-block-diagram.png)](docs/images/hardware-block-diagram.png)
+
 ## 固件界面
 
 ![以太01的桌面和应用列表](docs/images/01-desktop-drawer.png)
