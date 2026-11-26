@@ -6,22 +6,28 @@
 
 ## 固件界面
 
-<img src="docs/images/01-desktop-drawer.png" alt="以太01桌面和应用抽屉" width="960">
+![以太01的桌面和应用列表](docs/images/01-desktop-drawer.png)
 
-<img src="docs/images/02-daily-apps.png" alt="小说阅读、同步歌词、录音波形和设备设置" width="960">
+![以太01的日常应用](docs/images/02-daily-apps.png)
 
-<img src="docs/images/06-keyboard-files.png" alt="放大的离线拼音键盘、TF 卡与 USB 文件浏览、长按文件菜单" width="960">
+![录音机的本地 AI 人声降噪和 TF 卡文件管理](docs/images/06-recorder-files.png)
 
-<img src="docs/images/03-built-in-games.png" alt="以太01内置游戏界面" width="960">
+![计算器的标准、科学与进制模式](docs/images/07-calculator-modes.png)
+
+![主题壁纸、秒表与倒计时](docs/images/08-theme-clock.png)
+
+![以太01的小游戏](docs/images/03-built-in-games.png)
 
 <details>
 <summary>实用工具与连接界面</summary>
 
-<img src="docs/images/04-device-tools.png" alt="文件操作、运动姿态、短程位移与卫星定位" width="960">
+![姿态、水平仪与短程位移](docs/images/04-device-tools.png)
 
-<img src="docs/images/05-connectivity.png" alt="电脑键鼠、OBS 切换台与 USB 传输" width="960">
+![空中飞鼠、OBS 切换台与 USB 传输](docs/images/05-connectivity.png)
 
 </details>
+
+图中的 480 × 480 屏幕画面由 [V1.2.1 固件](https://github.com/DT-DT001/Aether01-AC101S-/releases/tag/V1.2.1)的 LVGL 界面渲染，内容使用演示数据。
 
 [查看以太01实物外观参考照片](<硬件资料（AC101S）/成品图/斜俯视亮屏.png>)
 
